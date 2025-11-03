@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão de Estoque",
+  "description": "Um sistema completo para gestão de estoque de uma fabricante de ferramentas, permitindo cadastro de produtos, controle de entradas e saídas, e alertas de estoque mínimo.",
+  "requestFramePermissions": []
+}
